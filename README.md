@@ -41,13 +41,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayxrd&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=c0c0c0" width="560" alt="rayxrd's Contribution Graph" style="margin:8px 0;">
 </div>
 
----
-## 🏆 GitHub Trophies
-
-<div align="center" style="background:#000000; border-radius:12px; padding:12px; max-width:560px; margin:auto;">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayxrd&theme=radical-dark&no-frame=true&column=7" alt="rayxrd Trophies" style="margin:4px;">
-</div>
-
 
 
 ---
