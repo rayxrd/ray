@@ -12,6 +12,9 @@
   </div>
 </div>
 
+---
+
+## 🛠️ Skills
 <div align="center" style="background:#1a5432; border-radius:12px; margin:14px 0 0 0; padding:8px 0; max-width:560px; margin:auto;">
   <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"></a>
@@ -22,6 +25,9 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"></a>
 </div>
 
+---
+
+## 📊 GitHub Stats
 <div align="center" style="background:#153a24; border-radius:12px; margin:12px auto; padding:12px 0; max-width:560px;">
   <div style="display:flex;flex-wrap:wrap;justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=rayxrd&show_icons=true&theme=react&border_radius=12&bg_color=153a24,153a24,153a24&title_color=43ea64&text_color=c0ffc0&icon_color=43ea64" width="290" alt="rayxrd Stats" style="margin:4px;">
@@ -31,10 +37,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayxrd&theme=react-dark&bg_color=153a24,153a24,153a24&color=43ea64&line=43ea64&point=c0ffc0" width="560" alt="rayxrd's Contribution Graph" style="margin:8px 0;">
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rayxrd&theme=radical&no-frame=true&column=7" alt="rayxrd Trophies" />
+</div>
+
+---
+
+## 🎮 Fun Fact
 <div align="center" style="background:#153a24; border-radius:12px; margin:10px auto; padding:8px 0; max-width:560px;">
   <img alt="Assassin's Creed Leap of Faith" width="340" src="https://media.tenor.com/9Wcbh5wQvIwAAAAC/assassins-creed-leap.gif">
 </div>
-
-<hr>
-<p align="center" style="color:#43ea64;"><a href="https://github.com/rayxrd">rayxrd</a><br>
-Last Edited on: 21/09/2025</p>
