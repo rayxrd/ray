@@ -1,6 +1,6 @@
 <!-- Compact Profile Dashboard for rayxrd -->
 
-<div align="right" style="background:#153a24; border-radius:18px; padding:18px; max-width:560px; margin:auto;">
+<div align="left" style="background:#153a24; border-radius:18px; padding:18px; max-width:600px; margin:auto;">
   <img src="https://github.com/rayxrd.png" width="80" style="border-radius:50%;border:3px solid #ffffff;">
   <h1 style="color:#ffffff; font-size:1.8em; margin:8px 0 4px 0;">rayxrd</h1>
   <p style="color:#c0c0c0; margin:0 0 12px 0;">GitHub.com/rayxrd</p>
