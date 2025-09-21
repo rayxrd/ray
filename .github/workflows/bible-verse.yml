@@ -1,0 +1,32 @@
+name: Update Bible Verse
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily at midnight UTC
+  workflow_dispatch:    # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Fetch random Bible verse and update README
+        run: |
+          # Fetch a random verse in JSON format
+          VERSE=$(curl -s "https://labs.bible.org/api/?passage=random&type=json" | jq -r '.[0] | "\(.bookname) \(.chapter):\(.verse) - \(.text)"')
+          
+          # Replace placeholder in README.md
+          sed -i "s|<!--VERSE-->.*<!--ENDVERSE-->|<!--VERSE-->$VERSE<!--ENDVERSE-->|" README.md
+          
+          # Commit changes
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Bible verse of the day"
+          git push
