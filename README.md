@@ -46,7 +46,6 @@
 
 ---
 
-<p align="center">
   <img alt="no no no no" width="340" src="https://github.com/rayxrd/rayxrd/blob/1908988eaa7a9ce4150bf440cc85e32d9848c6b6/.github/FromKlickPinCFjgjfogkgohok_MemesVinesfunnyvideosFunnyshortvideoclips-ezgif.com-video-to-gif-converter.gif">
 </p>  
 
