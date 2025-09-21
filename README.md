@@ -4,16 +4,16 @@
 </div>
 <br>
 <ul>
-<li>🌱 My name is niefee, I am Chinese, welcome to my GitHub home page</li>
-<li>⚡ I know HTML</li>
-<li>😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.</li>
-<li>💖 Love the beautiful code and photos</li>
+<li>🌱 My name is rayxrd, welcome to my GitHub home page</li>
+<li>⚡ I know JavaScript, Python, Go, C++, HTML, CSS, and Java</li>
+<li>😄 And a little bit of ReactJS, NodeJS, Vue.js, etc.</li>
+<li>💖 Love beautiful code and creative projects</li>
 <li>🔥 One is never too old to learn.</li>
 </ul>
 <br>
 <p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=Niefee&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;show_icons=true&amp;theme=radical">
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
+    <img style="height:10rem" src="https://media.tenor.com/fV0Qw9kI1iQAAAAC/assassins-creed.gif">
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=rayxrd&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
 </p>
 <div align="center">
     <picture align="center">
@@ -25,9 +25,9 @@
 <p align="center"> 
   </p><div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg">
+    <img src="https://profile-counter.glitch.me/rayxrd/count.svg">
   </div> 
 <p></p>
 <hr>
-<p>Credit: <a href="https://github.com/Niefee">Niefee</a>
-Last Edited on 03/02/2023</p> 
+<p>Credit: <a href="https://github.com/rayxrd">rayxrd</a>
+Last Edited on 21/09/2025</p> 
