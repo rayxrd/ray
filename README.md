@@ -32,7 +32,6 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
   </a>
-  <!-- Add more tools as you learn! -->
 </p>
 <br>
 <hr width="36%">
@@ -52,14 +51,11 @@
 </p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<!-- Contribution graph (snake) -->
-<div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<!-- GitHub Activity Graph -->
+<h3 align="center">Contribution Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayxrd&theme=react-dark&bg_color=232a2d,232a2d,232a2d&color=6afc8f&line=6afc8f&point=ffffff" alt="rayxrd's Contribution Graph" />
+</p>
 
 <hr width="60%">
 <p align="left">
