@@ -1,79 +1,83 @@
-<!-- Centered profile card and dashboard in a dark-themed container -->
-<div align="center" style="background:#202426; padding:40px 0; min-height:100vh;">
+<h1 align="center">Hi 👋, I'm rayxrd</h1>
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="">
+  </a>
+</p>
 
-  <!-- Profile header card -->
-  <div style="background:#232a2d;border-radius:32px;padding:32px 32px 18px 32px;display:inline-block;margin-bottom:34px;box-shadow:0 8px 32px #0006;">
-    <img src="https://avatars.githubusercontent.com/u/16022343?v=4" alt="rayxrd avatar" width="100" style="border-radius:50%;border:3px solid #252a2f;margin-bottom:12px;box-shadow:0 2px 12px #0004;" />
-    <h2 style="color:#b7ffb7; font-weight:600; margin:8px 0 4px 0;">rayxrd</h2>
-    <div style="color:#e3e3e3; margin-bottom:16px;">GitHub.com/rayxrd</div>
-    <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
-      <span style="background:#223d5a;color:#b2e6ff;border-radius:16px;padding:6px 18px;font-weight:600;font-size:1em;display:inline-flex;align-items:center;gap:6px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" />86</span>
-      <span style="background:#462e41;color:#ffb6e6;border-radius:16px;padding:6px 18px;font-weight:600;font-size:1em;display:inline-flex;align-items:center;gap:6px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="22" />29</span>
-      <span style="background:#2b2a14;color:#ffe7a4;border-radius:16px;padding:6px 18px;font-weight:600;font-size:1em;display:inline-flex;align-items:center;gap:6px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" />313</span>
-      <span style="background:#204d38;color:#b2ffcc;border-radius:16px;padding:6px 18px;font-weight:600;font-size:1em;display:inline-flex;align-items:center;gap:6px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22" />1410</span>
-    </div>
-  </div>
+<p>
+  🌱 I’m currently learning <strong>Full-Stack Web Development</strong>
+  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</p>
+<br>
 
-  <!-- Tech stack icons -->
-  <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:14px;margin-bottom:30px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="38" title="Go"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" title="C++"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" title="Java"/>
-  </div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
+  </a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40">
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
+  </a>
+</p>
+<br>
+<hr width="36%">
 
-  <!-- Stats and Languages grid -->
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:28px;margin-bottom:32px;">
-    <!-- Stats card -->
-    <div style="background:#232a2d;border-radius:16px;box-shadow:0 2px 16px #0003;padding:24px 32px;min-width:290px;max-width:320px;display:inline-block;">
-      <div style="color:#6afc8f;font-size:1.15em;font-weight:600;margin-bottom:12px;">rayxrd's GitHub Stats</div>
-      <div style="color:#e1e1e1;font-size:1em;line-height:1.9;">
-        <span>⭐ <b>Total Stars Earned:</b> 313</span><br>
-        <span>⏰ <b>Total Commits (last year):</b> 865</span><br>
-        <span>🍴 <b>Total PRs:</b> 20</span><br>
-        <span>🐛 <b>Total Issues:</b> 8</span><br>
-        <span>💼 <b>Contributed to (last year):</b> 10</span>
-      </div>
-      <div style="margin-top:16px;text-align:center;">
-        <svg width="70" height="70" viewBox="0 0 70 70">
-          <circle cx="35" cy="35" r="30" stroke="#6afc8f" stroke-width="7" fill="none" stroke-dasharray="190" stroke-dashoffset="30"/>
-          <text x="35" y="40" text-anchor="middle" fill="#6afc8f" font-size="2em" font-weight="bold">B+</text>
-        </svg>
-      </div>
-    </div>
-    <!-- Languages card -->
-    <div style="background:#232a2d;border-radius:16px;box-shadow:0 2px 16px #0003;padding:24px 32px;min-width:290px;max-width:320px;display:inline-block;">
-      <div style="color:#6afc8f;font-size:1.15em;font-weight:600;margin-bottom:12px;">Most Used Languages</div>
-      <div style="margin-bottom:10px;">
-        <div style="width:100%;height:10px;background:#222;border-radius:6px;overflow:hidden;">
-          <div style="width:32%;background:#2d5fc1;height:10px;float:left;"></div>
-          <div style="width:24%;background:#f7e018;height:10px;float:left;"></div>
-          <div style="width:14%;background:#2dc19e;height:10px;float:left;"></div>
-          <div style="width:10%;background:#e06c75;height:10px;float:left;"></div>
-          <div style="width:8%;background:#e34c26;height:10px;float:left;"></div>
-          <div style="width:7%;background:#563d7c;height:10px;float:left;"></div>
-          <div style="width:5%;background:#007396;height:10px;float:left;"></div>
-        </div>
-      </div>
-      <div style="color:#b6b6e6;font-size:1em;">
-        <span style="color:#2d5fc1;">●</span> Python <b>32%</b><br>
-        <span style="color:#f7e018;">●</span> JavaScript <b>24%</b><br>
-        <span style="color:#2dc19e;">●</span> Go <b>14%</b><br>
-        <span style="color:#e06c75;">●</span> C++ <b>10%</b><br>
-        <span style="color:#e34c26;">●</span> HTML <b>8%</b><br>
-        <span style="color:#563d7c;">●</span> CSS <b>7%</b><br>
-        <span style="color:#007396;">●</span> Java <b>5%</b>
-      </div>
-    </div>
-  </div>
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-  <!-- Contribution graph -->
-  <div style="background:#232a2d;border-radius:16px;padding:32px 18px;max-width:750px;box-shadow:0 2px 16px #0002;margin-bottom:32px;">
-    <div style="color:#6afc8f;font-size:1.15em;font-weight:600;margin-bottom:12px;">rayxrd's Contribution Graph</div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayxrd&theme=react-dark&bg_color=232a2d,232a2d,232a2d&color=6afc8f&line=6afc8f&point=ffffff" alt="Contribution Graph" style="width:100%;max-width:700px;border-radius:8px;" />
-  </div>
+<br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayxrd&show_icons=true&theme=dark&locale=en&layout=compact" alt="rayxrd">
+</p>
+<p><br><br><br><br><br><br><br></p>
 
-</div>
+<p>
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rayxrd&show_icons=true&theme=dark&locale=en" alt="rayxrd">
+</p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rayxrd&theme=dark" alt="rayxrd">
+</p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%">
+
+<!-- Connect section (add your links if you want) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40">
+  </a>
+  <a href="https://stackoverflow.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40">
+  </a>
+  <a href="https://kaggle.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40">
+  </a>
+  <a href="https://instagram.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40">
+  </a>
+</p>
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rayxrd&label=Profile%20views&color=0e75b6&style=flat" alt="rayxrd">
+</p>
+<hr>
+<p><a href="https://github.com/rayxrd">rayxrd</a></p>
+<p>Last Edited on: 21/09/2025</p>
