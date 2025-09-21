@@ -4,6 +4,27 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <!-- Left column: Verse of the Day -->
+    <td valign="top" width="50%">
+      ### 📖 Verse of the Day
+      <!--VERSE-->Loading...<!--ENDVERSE-->
+    </td>
+
+    <!-- Right column: Profile info / stats -->
+    <td valign="top" width="50%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rayxrd&show_icons=true&theme=viridescent" alt="GitHub Stats" />
+      </p>
+
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayxrd&theme=viridescent" alt="GitHub Streak" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 <p align="center">
