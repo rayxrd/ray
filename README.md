@@ -48,5 +48,5 @@
 
 ## 🎮 Fun Fact
 <div align="center" style="background:#153a24; border-radius:12px; margin:10px auto; padding:8px 0; max-width:560px;">
-  <img alt="Assassin's Creed Leap of Faith" width="340" src="https://media.tenor.com/9Wcbh5wQvIwAAAAC/assassins-creed-leap.gif">
+  <img alt="Leap of Faith" width="340" src="https://github.com/your-username/your-repo-name/blob/main/J8CR.gif">
 </div>
