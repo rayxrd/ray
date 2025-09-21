@@ -1,4 +1,4 @@
-  <h3 id="hi-there">Hi there 👋</h3>
+<h3 id="hi-there">Hi there 👋</h3>
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
 </div>
@@ -12,7 +12,7 @@
 </ul>
 <br>
 <p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://media.tenor.com/fV0Qw9kI1iQAAAAC/assassins-creed.gif">
+    <img style="height:10rem" src="https://media.tenor.com/9Wcbh5wQvIwAAAAC/assassins-creed-leap.gif">
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=rayxrd&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
 </p>
 <div align="center">
