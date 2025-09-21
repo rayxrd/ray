@@ -6,6 +6,9 @@
 
 
 
+| 📖 Verse of the Day |
+|--------------------|
+| <!--VERSE-->Loading...<!--ENDVERSE--> |
 
 
 
