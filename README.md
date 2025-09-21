@@ -1,33 +1,70 @@
-<h3 id="hi-there">Hi there 👋</h3>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
-</div>
-<br>
-<ul>
-<li>🌱 My name is rayxrd, welcome to my GitHub home page</li>
-<li>⚡ I know JavaScript, Python, Go, C++, HTML, CSS, and Java</li>
-<li>😄 And a little bit of ReactJS, NodeJS, Vue.js, etc.</li>
-<li>💖 Love beautiful code and creative projects</li>
-<li>🔥 One is never too old to learn.</li>
-</ul>
-<br>
-<p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://media.tenor.com/9Wcbh5wQvIwAAAAC/assassins-creed-leap.gif">
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=rayxrd&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
+<h1 align="center">Hi 👋, I'm rayxrd</h1>
+<p align="left"> 
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt="">
+  </a> 
 </p>
+<p>
+  🌱 I’m currently learning <strong>Full-Stack Web Development</strong>
+  <img align="right" alt="Assassin's Creed Leap of Faith" width="300" src="https://media.tenor.com/9Wcbh5wQvIwAAAAC/assassins-creed-leap.gif">
+</p>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
+  </a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40">
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
+  </a>
+  <!-- Add more tools as you learn! -->
+</p>
+<br>
+<hr width="36%">
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Assassin's Creed Leap of Faith" width="300" src="https://media.tenor.com/9Wcbh5wQvIwAAAAC/assassins-creed-leap.gif">
+<br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayxrd&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="rayxrd">
+</p>
+<p><br><br><br><br><br><br><br></p>
+<p>
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rayxrd&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="rayxrd">
+</p>
+<br><br><br><br><br><br><br><br><br><br>
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rayxrd&amp;theme=dark" alt="rayxrd">
+</p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<!-- Contribution graph (snake) -->
 <div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-<p align="center"> 
-  </p><div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/rayxrd/count.svg">
-  </div> 
-<p></p>
+
+<hr width="60%">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rayxrd&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="rayxrd">
+</p>
 <hr>
-<p>Credit: <a href="https://github.com/rayxrd">rayxrd</a>
-Last Edited on 21/09/2025</p> 
+<p><a href="https://github.com/rayxrd">rayxrd</a></p>
+<p>Last Edited on: 21/09/2025</p>
