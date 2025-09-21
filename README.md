@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/rayxrd">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Rayxrd&data=followers,repositories,stars,commits&theme=viridescent" alt="Github WidgetBox"/>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=rayxrd&data=followers,repositories,stars,commits&theme=viridescent" alt="Github WidgetBox"/>
   </a>
-</p> 
+</p>
+
 
 
 <p align="center">
