@@ -44,8 +44,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rayxrd&theme=radical&no-frame=true&column=7" alt="rayxrd Trophies" />
 </div>
 
----
-
 <p align="center">
   <img alt="Worried/Scared" width="560" src="https://raw.githubusercontent.com/rayxrd/rayxrd/47211229bb3336d16951ca863ed0c61929bf8a78/.github/worried-scared.gif">
 </p>
