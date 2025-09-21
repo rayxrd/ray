@@ -47,6 +47,7 @@
 ---
 
 ## 🎮 Fun Fact
-<div align="center" style="background:#153a24; border-radius:12px; margin:10px auto; padding:8px 0; max-width:560px;">
+<p align="center">
   <img alt="Leap of Faith" width="340" src="https://raw.githubusercontent.com/rayxrd/rayxrd/main/J8CR.gif">
-</div>
+</p>
+
