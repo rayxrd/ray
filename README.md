@@ -12,12 +12,7 @@
   </div>
 </div>
 
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=000000" alt="" style="margin:0 3px;">
-    <img src="https://img.shields.io/github/followers/rayxrd?label=Followers&style=for-the-badge&color=000000" style="margin:0 3px;">
-    <img src="https://img.shields.io/github/stars/rayxrd?label=Stars&style=for-the-badge&color=000000" style="margin:0 3px;">
-    <img src="https://komarev.com/ghpvc/?username=rayxrd&label=Profile%20views&color=000000&style=for-the-badge" style="margin:0 3px;">
-  </div>
-</div>
+
 
 
 <p align="center">
