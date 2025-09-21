@@ -13,22 +13,17 @@
 </div>
 
 ---
+
 ## 🛠️ Skills
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="32" style="margin:6px; filter: invert(1);" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="32" style="margin:6px; filter: invert(1);" alt="Python">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="32" style="margin:6px; filter: invert(1);" alt="Java">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="32" style="margin:6px; filter: invert(1);" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="32" style="margin:6px; filter: invert(1);" alt="CSS3">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/go.svg" width="32" style="margin:6px; filter: invert(1);" alt="Go">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="32" style="margin:6px; filter: invert(1);" alt="C++">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" width="32" style="margin:6px; filter: invert(1);" alt="C#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ruby.svg" width="32" style="margin:6px; filter: invert(1);" alt="Ruby">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="32" style="margin:6px; filter: invert(1);" alt="PHP">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" width="32" style="margin:6px; filter: invert(1);" alt="TypeScript">
-</p>
-
+<div align="center" style="background:#000000; border-radius:12px; margin:14px 0; padding:8px 0; max-width:560px;">
+  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"></a>
+  <a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="32"></a>
+  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32"></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"></a>
+</div>
 
 ---
 
@@ -50,6 +45,8 @@
 </div>
 
 ---
+
+
 
 <p align="center" style="margin-top:12px;">
   <img alt="Worried/Scared" width="560" src="https://raw.githubusercontent.com/rayxrd/rayxrd/47211229bb3336d16951ca863ed0c61929bf8a78/.github/worried-scared.gif">
