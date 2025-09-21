@@ -46,6 +46,12 @@
 
 ---
 
+<p align="center">
   <img alt="No no no no wait wait wait" width="560" src="https://raw.githubusercontent.com/rayxrd/rayxrd/1908988eaa7a9ce4150bf440cc85e32d9848c6b6/.github/FromKlickPinCFjgjfogkgohok_MemesVinesfunnyvideosFunnyshortvideoclips-ezgif.com-video-to-gif-converter.gif">
 </p>
+
+<p align="center">
+  <img alt="Worried/Scared" width="560" src="https://raw.githubusercontent.com/rayxrd/rayxrd/47211229bb3336d16951ca863ed0c61929bf8a78/.github/worried-scared.gif">
+</p>
+
 
