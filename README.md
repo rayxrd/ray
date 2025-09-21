@@ -1,6 +1,11 @@
-<h1 align="center">Hi, I'm rayxrd 👋</h1>
 <p align="center">
-  <b>Modern GitHub Profile</b><br>
+  <!-- Animated SVG Wave (from https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/logo.svg) -->
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/logo.svg" height="140" alt="Animated Header" />
+</p>
+
+<h1 align="center">Hi, I'm ray 👋</h1>
+<p align="center">
+  
   <a href="https://github.com/rayxrd">github.com/rayxrd</a>
 </p>
 
