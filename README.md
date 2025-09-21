@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://github.com/rayxrd">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Ray&data=followers,repositories,stars,commits&theme=viridescent" alt="Github WidgetBox"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
