@@ -4,11 +4,8 @@
   </a>
 </p>
 
-
-
-| 📖 Verse of the Day |
-|--------------------|
-| <!--VERSE-->Loading...<!--ENDVERSE--> |
+**Philippians 4:13**  
+*"I can do all things through Christ who strengthens me."*
 
 
 
