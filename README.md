@@ -4,6 +4,10 @@
   </a>
 </p>
 
+| 📖 Verse of the Day | 🌟 My GitHub Stats |
+|--------------------|-----------------|
+| ![Verse](verse.png) | ![Stats](https://github-readme-stats.vercel.app/api?username=rayxrd&show_icons=true&theme=viridescent) |
+
 
 
 
