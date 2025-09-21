@@ -1,22 +1,16 @@
-
 <!-- Compact Profile Dashboard for rayxrd -->
 
-<!-- Compact Profile Dashboard for rayxrd -->
+<div align="right" style="background:#153a24; border-radius:18px; padding:18px; max-width:560px; margin:auto;">
+  <img src="https://github.com/rayxrd.png" width="80" style="border-radius:50%;border:3px solid #ffffff;">
+  <h1 style="color:#ffffff; font-size:1.8em; margin:8px 0 4px 0;">rayxrd</h1>
+  <p style="color:#c0c0c0; margin:0 0 12px 0;">GitHub.com/rayxrd</p>
+  <div>
+    <img src="https://img.shields.io/github/followers/rayxrd?label=Followers&style=for-the-badge&color=000000" alt="GitHub Followers" style="margin:0 3px;">
+    <img src="https://img.shields.io/github/stars/rayxrd?label=Stars&style=for-the-badge&color=000000" alt="GitHub Stars" style="margin:0 3px;">
+    <img src="https://komarev.com/ghpvc/?username=rayxrd&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile Views" style="margin:0 3px;">
+  </div>
+</div>
 
-<table align="center" style="background:#153a24; border-radius:18px; padding:18px; max-width:560px; width:100%;">
-  <tr>
-    <!-- Left: text and badges -->
-    <td style="vertical-align:middle; padding-right:12px;">
-      <h1 style="color:#ffffff; font-size:1.8em; margin:0;">rayxrd</h1>
-      <p style="color:#c0c0c0; margin:4px 0 12px 0;">GitHub.com/rayxrd</p>
-      <div>
-        <img src="https://img.shields.io/github/followers/rayxrd?label=Followers&style=for-the-badge&color=000000" alt="GitHub Followers" style="margin:0 3px;">
-        <img src="https://img.shields.io/github/stars/rayxrd?label=Stars&style=for-the-badge&color=000000" alt="GitHub Stars" style="margin:0 3px;">
-        <img src="https://komarev.com/ghpvc/?username=rayxrd&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile Views" style="margin:0 3px;">
-      </div>
-    </td>
-  </tr>
-</table>
 
 
 
