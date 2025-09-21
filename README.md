@@ -12,8 +12,6 @@
   </div>
 </div>
 
----
-## 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
@@ -29,9 +27,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
 </p>
 
----
-
-## 📊 GitHub Stats
 <div align="center" style="background:#000000; border-radius:12px; margin:12px auto; padding:12px 0; max-width:560px;">
   <div style="display:flex;flex-wrap:wrap;justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=rayxrd&show_icons=true&theme=dark&border_radius=12&bg_color=000000&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff" width="290" alt="rayxrd Stats" style="margin:4px;">
