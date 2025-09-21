@@ -42,11 +42,12 @@
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies
+
 <div align="center" style="background:#000000; border-radius:12px; padding:12px; max-width:560px; margin:auto;">
   <img src="https://github-profile-trophy.vercel.app/?username=rayxrd&theme=dark&no-frame=true&column=7" alt="rayxrd Trophies" style="margin:4px;">
 </div>
+
 
 ---
 
