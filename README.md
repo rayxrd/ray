@@ -46,7 +46,6 @@
 
 ---
 
-## 🎮 Fun Fact
 <p align="center">
   <img alt="Leap of Faith" width="340" src="https://github.com/rayxrd/rayxrd/blob/94b2665fe88d7fa619818cce737da3c4b70fc50a/.github/J8CR.gif">
 </p>  
