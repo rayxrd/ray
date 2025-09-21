@@ -1,6 +1,6 @@
 <!-- Compact Profile Dashboard for rayxrd -->
 
-<div align="center" style="background:#153a24; border-radius:18px; padding:18px 0; max-width:560px; margin:auto;">
+<div align="left" style="background:#153a24; border-radius:18px; padding:18px 0; max-width:560px; margin:auto;">
   <img src="https://avatars.githubusercontent.com/u/47211229?v=4" width="80" style="border-radius:50%;border:3px solid #ffffff;">
   <h1 style="color:#ffffff; font-size:1.8em;">rayxrd</h1>
   <p style="color:#c0c0c0;">GitHub.com/rayxrd</p>
