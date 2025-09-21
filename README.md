@@ -16,17 +16,17 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=ffffff" alt="Go">
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=ffffff" alt="C#">
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=ffffff" alt="Ruby">
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="32" style="margin:6px; filter: invert(1);" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="32" style="margin:6px; filter: invert(1);" alt="Python">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="32" style="margin:6px; filter: invert(1);" alt="Java">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="32" style="margin:6px; filter: invert(1);" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="32" style="margin:6px; filter: invert(1);" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/go.svg" width="32" style="margin:6px; filter: invert(1);" alt="Go">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="32" style="margin:6px; filter: invert(1);" alt="C++">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" width="32" style="margin:6px; filter: invert(1);" alt="C#">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ruby.svg" width="32" style="margin:6px; filter: invert(1);" alt="Ruby">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="32" style="margin:6px; filter: invert(1);" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" width="32" style="margin:6px; filter: invert(1);" alt="TypeScript">
 </p>
 
 
