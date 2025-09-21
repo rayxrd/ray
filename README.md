@@ -23,11 +23,12 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=ffffff" alt="Go">
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c%23&logoColor=ffffff" alt="C#">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=ffffff" alt="C#">
   <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=ffffff" alt="Ruby">
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
 </p>
+
 
 ---
 
