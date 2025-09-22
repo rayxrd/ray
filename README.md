@@ -4,24 +4,18 @@
   </a>
 </p>
 
----
 
 <p align="center"><strong>Philippians 4:13</strong><br>
 <em>"I can do all things through Christ who strengthens me."</em></p>
 
----
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,cs,cpp,ruby,php,vscode" alt="Tools I Use"/>
 </p>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayxrd&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=c0c0c0&border_radius=12" width="460" alt="Most Used Languages"/>
 </div>
 
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayxrd&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff&border_radius=12" width="460" alt="GitHub Stats"/>
