@@ -7,13 +7,11 @@
 **Philippians 4:13**  
 *"I can do all things through Christ who strengthens me."*
 
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,cs,cpp,ruby,php,vscode" alt="Tools I Use"/>
 </p>
 
----
 
 <div align="center" style="background:#000000; border-radius:12px; margin:12px auto; padding:12px 0; max-width:560px;">
   <div style="display:flex;flex-wrap:wrap;justify-content:center;">
